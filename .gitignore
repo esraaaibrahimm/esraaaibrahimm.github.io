@@ -1,8 +1,0 @@
-# Keep originals and private files OUT of the public repo
-My_Work.zip
-My Work/
-*.docx
-*.pdf
-*.zip
-originals/
-.DS_Store
