@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://esraaaibrahimm.github.io/sitemap.xml
